@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff; /* Fundo branco */
+    color: #000000; /* Texto preto */
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #e91e63; /* Rosa para o título */
+    font-size: 3em;
+}
+
+.highlight {
+    color: #e91e63; /* Rosa para destaque */
+    font-weight: bold;
+}
+
+img {
+    width: 150px;
+    margin-top: 20px;
+}
+
+.cta {
+    background-color: #e91e63; /* Rosa para o botão */
+    color: white;
+    padding: 15px 25px;
+    border-radius: 5px;
+    font-size: 1.2em;
+    margin-top: 20px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.cta:hover {
+    background-color: #c2185b; /* Rosa mais escuro para hover */
+}
+
+footer {
+    margin-top: 50px;
+    font-size: 1.2em;
+    color: #e91e63; /* Rosa para o texto do rodapé */
+}
+
+p {
+    font-size: 1.2em;
+    line-height: 1.5;
+}
+
+.faq {
+    background-color: #fce4ec; /* Rosa claro para a área de FAQ */
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+.faq-item {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.faq-item h3 {
+    color: #e91e63; /* Rosa para os títulos de FAQ */
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.faq-item p {
+    font-size: 1.1em;
+    color: #000000; /* Preto para o texto das respostas */
+}
